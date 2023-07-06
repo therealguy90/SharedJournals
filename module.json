@@ -1,0 +1,22 @@
+{
+  "title": "SharedJournals",
+  "description": "Allows players to automatically share their created journal entries to other players.",
+  "version": "0.0.1",
+  "scripts": [
+    "scripts/journalupdate.js"
+  ],
+  "url": "https://github.com/Jmalayao/SharedJournals",
+  "manifest": "https://raw.githubusercontent.com/Jmalayao/SharedJournals/main/module.json",
+  "download": "",
+  "id": "SharedJournals",
+  "authors": [
+    {
+      "name": "Loki123",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}
