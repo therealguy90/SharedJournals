@@ -7,7 +7,7 @@
   ],
   "url": "https://github.com/Jmalayao/SharedJournals",
   "manifest": "https://raw.githubusercontent.com/Jmalayao/SharedJournals/main/module.json",
-  "download": "",
+  "download": "https://github.com/Jmalayao/SharedJournals/raw/0.1.0/SharedJournals.zip",
   "id": "sharedjournals",
   "authors": [
     {
