@@ -6,7 +6,7 @@
     "scripts/journalupdate.js"
   ],
   "url": "https://github.com/Jmalayao/SharedJournals",
-  "manifest": "https://raw.githubusercontent.com/Jmalayao/SharedJournals/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/therealguy90/SharedJournals/0.1.0/module.json",
   "download": "https://github.com/therealguy90/SharedJournals/releases/download/0.1.0/SharedJournals.zip",
   "id": "sharedjournals",
   "authors": [
